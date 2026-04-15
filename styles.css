@@ -9,35 +9,51 @@ body {
 }
 
 h1 {
-  font-size: 60px; /* CHANGE TO: 5vw */
+  font-size: 5vw; /* CHANGE TO: 5vw */
   font-weight: bold;
   margin-bottom: 20px;
 }
 
 h2 {
-  font-size: 30px; /* CHANGE TO: 2.5vw */
+  font-size: 2.5vw; /* CHANGE TO: 2.5vw */
 }
 
 p {
-  font-size: 20px; /* CHANGE TO: 2vw */
+  font-size: 2vw; /* CHANGE TO: 2vw */
   line-height: 1.6;
 }
 .hero {
-  height: 400px; /* CHANGE TO: 100vh */
+  height: 100vh; /* CHANGE TO: 100vh */
   background: #1a1a2e;
   color: white;
+  background-color: yellowgreen;
 }
 
 .card-style{
   border: 5px solid gainsboro;
   margin: 5px;
   color: white;
-  height: 500px; /* CHANGE TO: 100vh */
+  height: 100vh; /* CHANGE TO: 100vh */
   background-color: #1a1a2e;
 }
 
 /* Compleate challenge down here */
 
+.div-styles {
+  display:inline-block
+}
+.yellow {
+  background-color: yellow
+}
+.green{
+  background-color: green;
+  width: 30px;
+  height: 20px;
+}
 
-
-
+.blue{
+  background-color: blue;
+}
+.red{
+  background-color: red;
+}
