@@ -43,7 +43,10 @@ p {
   display:inline-block
 }
 .yellow {
-  background-color: yellow
+  background-color: yellow;
+  width: 30px;
+  height: 20px;
+
 }
 .green{
   background-color: green;
@@ -53,7 +56,11 @@ p {
 
 .blue{
   background-color: blue;
+  width: 30px;
+  height: 20px;
 }
 .red{
   background-color: red;
+  width: 30px;
+  height: 20px;
 }
